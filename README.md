@@ -433,4 +433,5 @@
 <br>
 
 <img src="./img/tux-linux-penguin.gif" alt="" height="40px" width="40px" />
-<img  src="https://img.shields.io/github/license/GugaS1lva/GugaS1lva?style=for-the-badge&logo=unlicense&logoColor=lightgrey&color=70A5FD" alt="" height="40px" />
+
+<img src="./img/2015-07-31-windows.gif" alt="" height="40px" width="40px" />
