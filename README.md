@@ -217,8 +217,8 @@
 <br><br>
 
 <h2 align="center">🛠️&ensp; <i>Ｔｅｃｎｏｌｏｇｉａ s</i> &ensp;🛠️</h2>
-<img align="left" height="300px" width="300px" alt="" src="./img/Blog-Gif.gif" />
-<table align="right" height="300px" width="275px" style="width: 650px; padding: 10px 0px 10px 10px;">
+<img align="left" height="300px" width="430px" alt="" src="./img/Blog-Gif.gif" />
+<table align="right" height="300px" width="275px" style="width: 430px; padding: 10px 0px 10px 10px;">
   <tr>
     <td align="center">
       <img src="https://skillicons.dev/icons?i=java" width="65px" alt=" icon"/><br>
