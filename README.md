@@ -1,6 +1,6 @@
 <h2 align="center">📋&ensp; <i>Ｓｏｂｒｅ</i> &ensp;📋</h2>
 <div align="center">
-  <img align="right" src="./img/iHMTch.gif" width="513px" height="313px" alt="">
+  <img align="right" src="./img/iHMTch.gif" width="413px" height="313px" alt="">
 
   <ul align="left" style="padding-right: 340px;">
     <li>☕ Technology, Coffee and Code. ☕</li><br>
