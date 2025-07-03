@@ -13,7 +13,7 @@
 
 <h2 align="center">💼&ensp; <i>Ｐｒｏｊｅｔｏｓ</i> &ensp;💼</h2>
 <div>
-  <img align="right" src="./img/kali-linux.gif" height="355px" width="513px" alt="">
+  <img align="right" src="./img/kali-linux.gif" height="355px" width="400px" alt="">
   
   <table height="365px" width="368px">
     <tr>
