@@ -432,8 +432,8 @@
 </details>
 <br>
 
-<img src="./img/tux-linux-penguin.gif" alt="" height="40px" width="40px" />
+<img src="./img/tux-linux-penguin.gif" alt="" height="80px" width="80px" />
 
-<img src="./img/2015-07-31-windows.gif" alt="" height="40px" width="40px" />
+<img src="./img/2015-07-31-windows.gif" alt="" height="80px" width="80px" />
 
-<img src="./img/R.gif" alt="" height="40px" width="40px" />
+<img src="./img/R.gif" alt="" height="80px" width="80px" />
