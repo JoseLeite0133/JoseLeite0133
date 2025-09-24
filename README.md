@@ -439,8 +439,4 @@
 ###
 <br>
 
-<img src="./img/tux-linux-penguin.gif" alt="" height="60px" width="60px" />
-
-<img src="./img/2015-07-31-windows.gif" alt="" height="60px" width="60px" />
-
-<img src="./img/R.gif" alt="" height="60px" width="60px" />
+<span><img src="./img/tux-linux-penguin.gif" alt="" height="60px" width="60px" /><img src="./img/2015-07-31-windows.gif" alt="" height="60px" width="60px" /><img src="./img/R.gif" alt="" height="60px" width="60px" /></span>
