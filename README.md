@@ -435,8 +435,8 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoseLeite0133/JoseLeite0133/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JoseLeite0133/JoseLeite0133/output/pacman-contribution-graph.svg">
 </picture>
-
-###
 <br>
 
-<span><img src="./img/tux-linux-penguin.gif" alt="" height="60px" width="60px" /><img src="./img/2015-07-31-windows.gif" alt="" height="60px" width="60px" /><img src="./img/R.gif" alt="" height="60px" width="60px" /></span>
+<img src="./img/tux-linux-penguin.gif" alt="" height="60px" width="60px" />
+<img src="./img/2015-07-31-windows.gif" alt="" height="60px" width="60px" />
+<img src="./img/R.gif" alt="" height="60px" width="60px" />
