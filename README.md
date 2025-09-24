@@ -430,6 +430,13 @@
   ![Snake animation](https://github.com/gugas1lva/gugas1lva/blob/output/github-snake-dark.svg)
   <br><br>
 </details>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JoseLeite0133/JoseLeite0133/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JoseLeite0133/JoseLeite0133/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JoseLeite0133/JoseLeite0133/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 <br>
 
 <img src="./img/tux-linux-penguin.gif" alt="" height="60px" width="60px" />
